@@ -7,7 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/19ZNuB8sqA9N9eofVghRd0kgFismHpz8l
 """
 
-```import random
+```
+import random
 
 def 가바보_선택(누구, 리스트_가바보):
     가바보 = None
